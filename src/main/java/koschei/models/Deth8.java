@@ -3,5 +3,5 @@ package koschei.models;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Death8 {
+public class Deth8 {
 }
